@@ -1,6 +1,5 @@
 *.d
 *.filters
-*.user
 *.vs
 build
 intermediate
