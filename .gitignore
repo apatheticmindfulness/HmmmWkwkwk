@@ -1,3 +1,11 @@
+*.d
+*.vcxproj
+*.filters
+*.user
+*.vs
+build
+intermediate
+
 # Prerequisites
 *.d
 
