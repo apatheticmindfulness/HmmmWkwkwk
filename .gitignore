@@ -1,5 +1,4 @@
 *.d
-*.vcxproj
 *.filters
 *.user
 *.vs
